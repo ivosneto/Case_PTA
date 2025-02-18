@@ -1,6 +1,6 @@
 # Case_PTA
 
-##Introdução
+## Introdução
 ### Contexto do Projeto
 
 Este projeto tem como objetivo analisar dados de vendas e lojas para identificar padrões e tendências que possam melhorar o desempenho comercial. A partir das bases fornecidas, realizamos o tratamento das bases e uma Análise Exploratória de Dados (EDA) para extrair insights valiosos.
@@ -43,7 +43,7 @@ Bases de Dados Utilizadas:
 
 -Combinado.csv: Junção dad duas bases após o tratamento
 
-###Etapas da Análise:
+### Etapas da Análise:
 
 -Tratamento dos dados: Remoção de valores nulos, normalização e estruturação dos dados.
 
@@ -51,7 +51,7 @@ Bases de Dados Utilizadas:
 
 -Geração de Insights: Interpretação dos padrões encontrados e recomendações estratégicas.
 
-###Notebooks Desenvolvidos
+### Notebooks Desenvolvidos
 
 PTA_CITI.ipynb: Contém a análise completa, desde a carga dos dados até a obtenção dos insights.
 
